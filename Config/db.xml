@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<!-- Fichier de configuration pour la connection à la BDD -->
+<config>
+    <host>localhost</host>
+    <user>root</user>
+    <password></password>
+    <db>libraryphp</db>
+    <charset>utf8mb4</charset>
+</config>
